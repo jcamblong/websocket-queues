@@ -1,11 +1,10 @@
 {
-  "name": "websocket-server",
+  "name": "websocket-queues",
   "version": "1.0.0",
-  "description": "Testing Websocket en Curso Node",
-  "main": "index.js",
+  "description": "Testing Websocket queues",
+  "main": "app.js",
   "scripts": {
-    "start": "node app",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
